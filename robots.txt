@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://puwido.github.io/puwido-enterprises/sitemap.xml
+Sitemap: https://puwidoenterprises.com/sitemap.xml
